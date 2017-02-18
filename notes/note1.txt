@@ -1,0 +1,15 @@
+this is note 1 into note1.txt
+
+note2:
+this is note 2 into note1.txt
+##this is note 2 into note1.txt (commit 2)
+
+note3:
+this is note 3 into note1.txt
+
+
+commit 2
+========
+note4 into note1.txt
+
+note5 into note1.txt
